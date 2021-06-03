@@ -16,3 +16,6 @@ elif n == 3:
 
 elif n == 4:
     print(f"A / B = {a/b}")
+    
+else:
+    print("Wrong choice")
